@@ -1,4 +1,4 @@
-## 🔗 To-Do List Application - TASK 1
+##  To-Do List Application - TASK 1
 
 The To-Do List Application enables users to manage and organize their tasks effectively. Made in a command-line interface (CLI), here's how this application works:
 
@@ -20,7 +20,7 @@ The To-Do List Application enables users to manage and organize their tasks effe
 
 ---
 
-## 🔗 Simple Calculator - TASK 2
+##  Simple Calculator - TASK 2
 
 The Simple Calculator performs basic arithmetic operations. Users can input two numbers and choose an operation (addition, subtraction, multiplication, division, modulus, floor division, or power). Here's how it works:
 
@@ -44,7 +44,7 @@ The Simple Calculator performs basic arithmetic operations. Users can input two 
 
 ---
 
-## 🔗 Password Generator - TASK 3
+##  Password Generator - TASK 3
 
 The Password Generator creates strong and random passwords based on user specifications. Users can specify the desired password length and complexity. Here's how it works:
 
@@ -65,7 +65,7 @@ The Password Generator creates strong and random passwords based on user specifi
 
 ---
 
-## 🔗 Rock Paper Scissors - TASK 4
+##  Rock Paper Scissors - TASK 4
 
 The Rock Paper Scissors game allows a user to play against the computer. The application randomly selects Rock, Paper, or Scissors for the computer, and the user does the same. The winner is determined based on the classic rules:
 
@@ -87,7 +87,7 @@ The Rock Paper Scissors game allows a user to play against the computer. The app
 
 ---
 
-## 🔗 Contact Book - TASK 5
+##  Contact Book - TASK 5
 
 The Contact Book application allows users to store, manage, and retrieve contact information easily. Here's how it works:
 
